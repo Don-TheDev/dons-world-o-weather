@@ -1,0 +1,70 @@
+#weather_title {
+    font-weight: bold;
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+    padding-bottom: 10%;
+}
+#weather_container {
+    display: flex;
+}
+#day_0_weather {
+    display: inline-block;
+    border: 2px solid #AAF;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    flex: auto;
+}
+#day_1_weather {
+    display: inline-block;
+    border: 2px solid #AAF;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    flex: auto;
+}
+#day_2_weather {
+    display: inline-block;
+    border: 2px solid #AAF;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    flex: auto;
+}
+#day_3_weather {
+    display: inline-block;
+    border: 2px solid #AAF;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    flex: auto;
+}
+#day_4_weather {
+    display: inline-block;
+    border: 2px solid #AAF;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    width: 150px;
+    height: 200px;
+    margin: 5px;
+    padding: 15px;
+    text-align: center;
+    flex: auto;
+}
