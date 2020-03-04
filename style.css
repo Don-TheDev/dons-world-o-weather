@@ -19,6 +19,7 @@
     padding: 15px;
     text-align: center;
     flex: auto;
+    background-size: cover;
 }
 #day_1_weather {
     display: inline-block;
@@ -31,6 +32,7 @@
     padding: 15px;
     text-align: center;
     flex: auto;
+    background-size: cover;
 }
 #day_2_weather {
     display: inline-block;
@@ -43,6 +45,7 @@
     padding: 15px;
     text-align: center;
     flex: auto;
+    background-size: cover;
 }
 #day_3_weather {
     display: inline-block;
@@ -55,6 +58,7 @@
     padding: 15px;
     text-align: center;
     flex: auto;
+    background-size: cover;
 }
 #day_4_weather {
     display: inline-block;
@@ -67,4 +71,5 @@
     padding: 15px;
     text-align: center;
     flex: auto;
+    background-size: cover;
 }
